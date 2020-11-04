@@ -1,7 +1,7 @@
 # Movie-Seat-Booking
 Display movie choices and seats in a theater to select from in order to purchase tickets
 
-The App is live Here - Click Here
+The App is live Here - [Click Here]( https://shruti1421.github.io/Movie-Seat-Booking/.)
 
 # Project Specifications:
 - Display UI with movie select, screen, seats, legend & seat info
